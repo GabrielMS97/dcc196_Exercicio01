@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercicio01</string>
+    <string name="hintNome">Nome</string>
+    <string name="hintSobrenome">Digite seu sobrenome</string>
+    <string name="txtJuntar">Juntar</string>
+    <string name="txtSaida">...</string>
+</resources>
